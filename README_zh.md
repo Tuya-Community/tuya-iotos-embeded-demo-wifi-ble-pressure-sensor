@@ -17,7 +17,7 @@
 ## 快速上手 
 
 ### 编译与烧录
-+ 下载
++ 下载[Tuya IoTOS Embeded WiFi & BLE sdk](https://github.com/tuya/tuya-iotos-embeded-sdk-wifi-ble-bk7231n) 
 
 + 下载Demo至SDK目录的apps目录下 
 
